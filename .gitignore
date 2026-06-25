@@ -1,0 +1,6 @@
+node_modules/
+database/
+datasets/
+ml-service/dataset/
+.DS_Store
+*.log
